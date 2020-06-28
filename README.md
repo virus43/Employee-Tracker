@@ -13,3 +13,5 @@ A command-line application that allows the user to:
   * View employees by manager
 
   * Delete departments, roles, and employees
+  
+  ![](employee-tracker.gif)
